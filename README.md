@@ -1,7 +1,9 @@
 # tutorial-navmesh-navigation
 
-This repository covers the use of Unity3d Navmesh Components together with the stardust SDK for visual positioning.
+This repository covers the use of Unity3d Navmesh Components together with the stardust SDK for visual positioning in a tutorial where we use a guide bot to display some information about a desired target location.
 Enabling developers to anchor immersive experiences in space, as well as allowing for other to view the experience.
+
+Link to video tutorial: https://www.youtube.com/watch?v=_7BB3cneXXw&ab_channel=Neogoma%28%23StardustSDK%29
 
 Setup:
 - You need to use your API key, get it from your Stardust settings dashboard: https://stardust.neogoma.com/login
@@ -14,5 +16,6 @@ Setup:
 - Clear any residual objects from the hierarchy.
 
 Note: Clone the repo, downloading the zip file might result in missing files. 
+
 
 Documentation for the Stardust SDK here: https://doc.neogoma.com/#/
